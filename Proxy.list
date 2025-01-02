@@ -49,7 +49,6 @@ DOMAIN-SUFFIX,forge.com
 DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,pikpak.com
 DOMAIN-SUFFIX,pikpakapp.com
-DOMAIN-KEYWORD,pikpak
 
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
@@ -90,4 +89,3 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 IP-CIDR,142.250.0.0/16,no-resolve
-IP-CIDR,203.107.45.0/24,no-resolve
