@@ -47,9 +47,9 @@ DOMAIN-SUFFIX,highwebmedia.com
 DOMAIN-SUFFIX,kpkuang.org
 DOMAIN-SUFFIX,forge.com
 DOMAIN-SUFFIX,hjd2048.com
-DOMAIN-SUFFIX,pikpak.com,Proxy
-DOMAIN-SUFFIX,pikpakapp.com,Proxy
-DOMAIN-KEYWORD,pikpak,Proxy
+DOMAIN-SUFFIX,pikpak.com
+DOMAIN-SUFFIX,pikpakapp.com
+DOMAIN-KEYWORD,pikpak
 
 DOMAIN-SUFFIX,polivera.ai
 DOMAIN-SUFFIX,asiassn.com
